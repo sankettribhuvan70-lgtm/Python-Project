@@ -1,2 +1,2 @@
-# Python-Project
-Diwali sale report
+# Project
+Data analytics projecrt
